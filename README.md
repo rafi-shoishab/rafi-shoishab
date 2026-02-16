@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rafishoishab/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rsrafirahman@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/rafi-shoishab)
 
