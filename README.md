@@ -1,7 +1,7 @@
 <div align="center">
 
 # I'm Rafiur Rahman Shoishab  
-### 📊 Data Analyst | 💻 Full-Stack Developer | 🔬 Research Enthusiast
+### 📊 Data Science Learner | ♻️ Machine Learning Enthusiast | 💻 Full-Stack Developer | 🔬 Researcher 
 
 </div>
 
