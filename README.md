@@ -54,6 +54,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rsrafirahman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/engr-rafiur)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/rafi-shoishab)
 
 ---
